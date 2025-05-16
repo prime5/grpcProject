@@ -55,3 +55,26 @@ pgsql
 Copy
 Edit
 Response from server: Echo: Hello from client!
+
+What You’ll Learn
+How to define a gRPC service with .proto files
+
+How to auto-generate Python code from Protobuf
+
+How to implement both server and client using gRPC
+
+Differences between gRPC, REST, and GraphQL
+
+📌 Use Cases
+This microservice pattern can be scaled for:
+
+High-throughput internal APIs
+
+Streaming data services
+
+Microservice-to-microservice communication
+
+👤 Author
+Pramathesh Malshe
+🔗 LinkedIn Profile
+🧑‍💻 Applying for roles in Infrastructure, Backend, and Developer Platforms.
